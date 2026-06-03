@@ -1,0 +1,21 @@
+class Cichnamon
+{
+    public string Jmeno;
+    public string Typ;
+    public int Hp;
+    public int MaxHp;
+    public int Lvl;
+    public Utok ZakladniUtok;
+    public Utok SpecialniUtok;
+
+    public Cichnamon(string jmeno, string typ, int maxHp, Utok zakladni, Utok specialni)
+    {
+        Jmeno = jmeno;
+        Typ = typ;
+        MaxHp = maxHp;
+        Hp = maxHp;
+        Lvl = 1;
+        ZakladniUtok = zakladni;
+        SpecialniUtok = specialni;
+    }
+}
