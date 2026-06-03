@@ -1,0 +1,27 @@
+Program
+
+Utok, Cichnamon, Trener
+
+while do te doby nez Hp hrac > 0 a nechce hrat dal
+
+dmg je random a hrac muze si vybrat typ utoku(zakladni specialni), enemy ma random dmg max 1/2 Hp hrace na 1 utok random utok (vybere se nazev)
+
+uzdraveni az 20% az 50% aktualniho HP hrace, jednou [DOPLNIT] utoku
+
+po kazdem utoku se vypise jestli Cichnamon zivy a kolik ma HP
+
+Pravidla:
+	hrac vybere Cichnamona (ze 3 Cichnamonu), pocitac dostane ho taky
+	
+	Moznosti boje:
+		zakladni- random dmg do 1/3 HP enemy
+		specialni- max 1/3 az 1/2 HP enemy
+		Heal- uzdraveni az 1/2 HP Cichnamona
+	pocitac dmg
+		   - styl utoku je nahodny (70% zakladni, 30% specialni) 
+		   - zakladni 15% HP hrace
+		   - specialni 30%
+konec kdyz HP hrace = 0 nebo hrac chce skonci
+	
+
+
