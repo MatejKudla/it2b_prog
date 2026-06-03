@@ -1,6 +1,4 @@
-Program
-
-Utok, Cichnamon, Trener
+Program, Utok, Cichnamon, Trener
 
 while do te doby nez Hp hrac > 0 a nechce hrat dal
 
